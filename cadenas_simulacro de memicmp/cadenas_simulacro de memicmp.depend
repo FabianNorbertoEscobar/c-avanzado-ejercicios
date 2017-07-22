@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1473358770 source:d:\unlam\programaci”n\fabian 2\cadenas_simulacro de memicmp\functions.c
+	"header.h"
+
+1474474478 d:\unlam\programaci”n\fabian 2\cadenas_simulacro de memicmp\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
+1474474451 source:d:\unlam\programaci”n\fabian 2\cadenas_simulacro de memicmp\main.c
+	"header.h"
+

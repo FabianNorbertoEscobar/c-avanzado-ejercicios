@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1476302958 source:d:\unlam\programaci”n\fabian\clase 13 (primitivas de lista est·tica)\main.c
+	"header.h"
+
+1476302151 d:\unlam\programaci”n\fabian\clase 13 (primitivas de lista est·tica)\header.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<locale.h>
+	"primitivas_lista_est·tica.h"
+
+1476302700 d:\unlam\programaci”n\fabian\clase 13 (primitivas de lista est·tica)\primitivas_lista_est·tica.h
+	"dato.h"
+
+1476299277 d:\unlam\programaci”n\fabian\clase 13 (primitivas de lista est·tica)\dato.h
+
+1476302796 source:d:\unlam\programaci”n\fabian\clase 13 (primitivas de lista est·tica)\functions.c
+	"header.h"
+
+1476302902 source:d:\unlam\programaci”n\fabian\clase 13 (primitivas de lista est·tica)\primitivas_lista_est·tica.c
+	"primitivas_lista_est·tica.h"
+

@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1478044265 source:d:\unlam\programaci”n\fabian\clase 22 (·rbol - clase 2)\functions.c
+	"header.h"
+
+1477771772 d:\unlam\programaci”n\fabian\clase 22 (·rbol - clase 2)\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	"primitivas_·rbol.h"
+
+1478484034 d:\unlam\programaci”n\fabian\clase 22 (·rbol - clase 2)\primitivas_·rbol.h
+	"primitivas_pila_din·mica.h"
+	<stdio.h>
+	<stdlib.h>
+
+1477843548 d:\unlam\programaci”n\fabian\clase 22 (·rbol - clase 2)\primitivas_pila_din·mica.h
+	"dato.h"
+
+1477766164 d:\unlam\programaci”n\fabian\clase 22 (·rbol - clase 2)\dato.h
+
+1477843602 source:d:\unlam\programaci”n\fabian\clase 22 (·rbol - clase 2)\primitivas_pila_din·mica.c
+	"primitivas_pila_din·mica.h"
+	<stdio.h>
+	<stdlib.h>
+
+1478489073 source:d:\unlam\programaci”n\fabian\clase 22 (·rbol - clase 2)\main.c
+	"header.h"
+
+1478487881 source:d:\unlam\programaci”n\fabian\clase 22 (·rbol - clase 2)\primitivas_·rbol.c
+	"primitivas_·rbol.h"
+

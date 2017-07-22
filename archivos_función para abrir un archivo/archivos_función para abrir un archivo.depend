@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1473706977 source:d:\unlam\programaciÓn\fabian 2\archivos_función para abrir un archivo\functions.c
+	"header.h"
+
+1473706436 d:\unlam\programaciÓn\fabian 2\archivos_función para abrir un archivo\header.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<locale.h>
+
+1473707703 source:d:\unlam\programaciÓn\fabian 2\archivos_función para abrir un archivo\main.c
+	"header.h"
+

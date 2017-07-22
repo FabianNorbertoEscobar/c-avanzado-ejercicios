@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1473636973 source:d:\unlam\programaciÓn\fabian 2\conversión_simulacro de atol\functions.c
+	"header.h"
+
+1473636978 d:\unlam\programaciÓn\fabian 2\conversión_simulacro de atol\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+	<stdlib.h>
+
+1473636959 source:d:\unlam\programaciÓn\fabian 2\conversión_simulacro de atol\main.c
+	"header.h"
+

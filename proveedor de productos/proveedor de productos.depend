@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1475449826 source:d:\unlam\programaci”n\fabian 2\proveedor de productos\main.c
+	"header.h"
+
+1475449642 d:\unlam\programaci”n\fabian 2\proveedor de productos\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	"primitivas_pila_est·tica.h"
+
+1474755851 d:\unlam\programaci”n\fabian 2\proveedor de productos\primitivas_pila_est·tica.h
+	"dato.h"
+
+1475449648 d:\unlam\programaci”n\fabian 2\proveedor de productos\dato.h
+
+1474754039 source:d:\unlam\programaci”n\fabian 2\proveedor de productos\primitivas_pila_est·tica.c
+	"primitivas_pila_est·tica.h"
+
+1475450207 source:d:\unlam\programaci”n\fabian 2\proveedor de productos\functions.c
+	"header.h"
+

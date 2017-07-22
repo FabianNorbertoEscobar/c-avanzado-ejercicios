@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1471744380 source:d:\unlam\programaci”n\fabian 2da\fechas_fecha anterior\funciones.c
+	"header.h"
+
+1471743808 d:\unlam\programaci”n\fabian 2da\fechas_fecha anterior\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
+1471743846 source:d:\unlam\programaci”n\fabian 2da\fechas_fecha anterior\main.c
+	"header.h"
+

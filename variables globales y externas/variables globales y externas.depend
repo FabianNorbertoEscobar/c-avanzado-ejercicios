@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1476137601 source:d:\unlam\programaci”n\fabian\variables globales y externas\main.c
+	"header.h"
+
+1476137547 d:\unlam\programaci”n\fabian\variables globales y externas\header.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1476137547 source:d:\unlam\programaci”n\fabian\variables globales y externas\funciones.c
+	"header.h"
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1473698993 source:d:\unlam\programaci”n\fabian 2\sscanf y sprintf\main.c
+	"header.h"
+
+1473696391 d:\unlam\programaci”n\fabian 2\sscanf y sprintf\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+

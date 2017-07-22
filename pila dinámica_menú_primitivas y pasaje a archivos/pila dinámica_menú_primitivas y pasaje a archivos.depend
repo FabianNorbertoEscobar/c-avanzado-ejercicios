@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1475429864 source:d:\unlam\programaciÓn\fabian 2\pila dinámica_menú_primitivas y pasaje a archivos\functions.c
+	"header.h"
+
+1475429804 d:\unlam\programaciÓn\fabian 2\pila dinámica_menú_primitivas y pasaje a archivos\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	"primitivas_pila_dinámica.h"
+
+1475429263 d:\unlam\programaciÓn\fabian 2\pila dinámica_menú_primitivas y pasaje a archivos\primitivas_pila_dinámica.h
+	"dato.h"
+
+1474765137 d:\unlam\programaciÓn\fabian 2\pila dinámica_menú_primitivas y pasaje a archivos\dato.h
+
+1475019065 source:d:\unlam\programaciÓn\fabian 2\pila dinámica_menú_primitivas y pasaje a archivos\main.c
+	"header.h"
+
+1475429511 source:d:\unlam\programaciÓn\fabian 2\pila dinámica_menú_primitivas y pasaje a archivos\primitivas_pila_dinámica.c
+	"primitivas_pila_dinámica.h"
+	<stdio.h>
+	<stdlib.h>
+

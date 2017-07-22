@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1474498231 source:d:\unlam\programaci”n\fabian 2\clase 10 (qsort)\functions.c
+	"header.h"
+
+1474498260 d:\unlam\programaci”n\fabian 2\clase 10 (qsort)\header.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
+1474498313 source:d:\unlam\programaci”n\fabian 2\clase 10 (qsort)\main.c
+	"header.h"
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1482797380 source:d:\unlam\programaciÓn\fabian\barajar y repartir cartas de la baraja inglesa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

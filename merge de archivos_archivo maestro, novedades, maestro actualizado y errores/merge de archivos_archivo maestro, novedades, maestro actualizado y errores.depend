@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1474260102 source:d:\unlam\programaci”n\fabian 2\merge de archivos_archivo maestro, novedades, maestro actualizado y errores\functions.c
+	"header.h"
+
+1474260506 d:\unlam\programaci”n\fabian 2\merge de archivos_archivo maestro, novedades, maestro actualizado y errores\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
+1474260469 source:d:\unlam\programaci”n\fabian 2\merge de archivos_archivo maestro, novedades, maestro actualizado y errores\main.c
+	"header.h"
+

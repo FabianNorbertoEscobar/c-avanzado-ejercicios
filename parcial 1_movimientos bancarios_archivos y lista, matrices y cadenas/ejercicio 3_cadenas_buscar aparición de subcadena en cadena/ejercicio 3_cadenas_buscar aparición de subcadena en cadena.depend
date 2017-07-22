@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1476411529 source:d:\unlam\programaciÓn\fabian\parcial 1_movimientos bancarios_archivos de texto, matrices y cadenas\ejercicio 3_cadenas_buscar aparición de subcadena en cadena\funciones.c
+	"header.h"
+
+1476410988 d:\unlam\programaciÓn\fabian\parcial 1_movimientos bancarios_archivos de texto, matrices y cadenas\ejercicio 3_cadenas_buscar aparición de subcadena en cadena\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
+1476411529 source:d:\unlam\programaciÓn\fabian\parcial 1_movimientos bancarios_archivos de texto, matrices y cadenas\ejercicio 3_cadenas_buscar aparición de subcadena en cadena\main.c
+	"header.h"
+
+1476570247 source:d:\unlam\programaciÓn\fabian\parcial 1_movimientos bancarios_archivos y lista, matrices y cadenas\ejercicio 3_cadenas_buscar aparición de subcadena en cadena\main.c
+	"header.h"
+
+1476569703 d:\unlam\programaciÓn\fabian\parcial 1_movimientos bancarios_archivos y lista, matrices y cadenas\ejercicio 3_cadenas_buscar aparición de subcadena en cadena\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
+1476570299 source:d:\unlam\programaciÓn\fabian\parcial 1_movimientos bancarios_archivos y lista, matrices y cadenas\ejercicio 3_cadenas_buscar aparición de subcadena en cadena\funciones.c
+	"header.h"
+

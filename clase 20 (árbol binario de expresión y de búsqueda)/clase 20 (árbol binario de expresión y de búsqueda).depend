@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1477771753 source:d:\unlam\programaciÓn\fabian\clase 20 (árbol binario de expresión y de búsqueda)\functions.c
+	"header.h"
+
+1477771772 d:\unlam\programaciÓn\fabian\clase 20 (árbol binario de expresión y de búsqueda)\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	"primitivas_árbol.h"
+
+1478047778 d:\unlam\programaciÓn\fabian\clase 20 (árbol binario de expresión y de búsqueda)\primitivas_árbol.h
+	"primitivas_pila_dinámica.h"
+	<stdio.h>
+	<stdlib.h>
+
+1477766164 d:\unlam\programaciÓn\fabian\clase 20 (árbol binario de expresión y de búsqueda)\dato.h
+
+1477786496 source:d:\unlam\programaciÓn\fabian\clase 20 (árbol binario de expresión y de búsqueda)\main.c
+	"header.h"
+
+1477786472 source:d:\unlam\programaciÓn\fabian\clase 20 (árbol binario de expresión y de búsqueda)\primitivas_árbol.c
+	"primitivas_árbol.h"
+
+1477843548 d:\unlam\programaciÓn\fabian\clase 20 (árbol binario de expresión y de búsqueda)\primitivas_pila_dinámica.h
+	"dato.h"
+
+1477843602 source:d:\unlam\programaciÓn\fabian\clase 20 (árbol binario de expresión y de búsqueda)\primitivas_pila_dinámica.c
+	"primitivas_pila_dinámica.h"
+	<stdio.h>
+	<stdlib.h>
+

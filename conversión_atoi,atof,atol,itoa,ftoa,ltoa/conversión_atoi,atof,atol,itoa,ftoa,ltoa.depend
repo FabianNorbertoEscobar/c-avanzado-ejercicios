@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1473641801 source:d:\unlam\programaciÓn\fabian 2\conversión_atoi,atof,atol,itoa,ftoa,ltoa\main.c
+	"header.h"
+
+1473639685 d:\unlam\programaciÓn\fabian 2\conversión_atoi,atof,atol,itoa,ftoa,ltoa\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+	<stdlib.h>
+

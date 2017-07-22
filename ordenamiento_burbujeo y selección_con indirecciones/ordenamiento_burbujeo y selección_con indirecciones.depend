@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1472081608 source:d:\unlam\programaciÓn\fabian 2da\ordenamiento_burbujeo y selección_con indirecciones\funciones.c
+	"header.h"
+
+1472080673 d:\unlam\programaciÓn\fabian 2da\ordenamiento_burbujeo y selección_con indirecciones\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
+1472080441 source:d:\unlam\programaciÓn\fabian 2da\ordenamiento_burbujeo y selección_con indirecciones\main.c
+	"header.h"
+

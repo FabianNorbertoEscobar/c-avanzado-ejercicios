@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1476991788 source:d:\unlam\programaci”n\fabian\repaso pila din·mica\functions.c
+	"header.h"
+
+1476991907 d:\unlam\programaci”n\fabian\repaso pila din·mica\header.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<locale.h>
+	"primitivas_pila_din·mica.h"
+
+1476994086 d:\unlam\programaci”n\fabian\repaso pila din·mica\primitivas_pila_din·mica.h
+	"dato.h"
+	<stdio.h>
+	<stdlib.h>
+
+1476991855 d:\unlam\programaci”n\fabian\repaso pila din·mica\dato.h
+
+1476994265 source:d:\unlam\programaci”n\fabian\repaso pila din·mica\main.c
+	"header.h"
+
+1476994065 source:d:\unlam\programaci”n\fabian\repaso pila din·mica\primitivas_pila_din·mica.c
+	"primitivas_pila_din·mica.h"
+

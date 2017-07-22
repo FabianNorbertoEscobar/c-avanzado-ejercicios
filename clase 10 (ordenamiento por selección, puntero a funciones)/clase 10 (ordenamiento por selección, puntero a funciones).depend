@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1474497875 source:d:\unlam\programaciÓn\fabian 2\clase 10 (ordenamiento por selección, puntero a funciones)\functions.c
+	"header.h"
+
+1474497685 d:\unlam\programaciÓn\fabian 2\clase 10 (ordenamiento por selección, puntero a funciones)\header.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
+1474498104 source:d:\unlam\programaciÓn\fabian 2\clase 10 (ordenamiento por selección, puntero a funciones)\main.c
+	"header.h"
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1472155523 source:d:\unlam\programaciÓn\fabian 2da\vectores_insertar elemento dada la posición de inserción_con indirecciones\main.c
+	"header.h"
+
+1472158231 d:\unlam\programaciÓn\fabian 2da\vectores_insertar elemento dada la posición de inserción_con indirecciones\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+

@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1477265045 source:d:\unlam\programaci”n\fabian\clase 17 (recursividad)\main.c
+	"header.h"
+
+1477265019 d:\unlam\programaci”n\fabian\clase 17 (recursividad)\header.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<locale.h>
+	"lista_simplemente_enlazada.h"
+
+1477264949 source:d:\unlam\programaci”n\fabian\clase 17 (recursividad)\functions.c
+	"header.h"
+
+1476046425 source:d:\unlam\programaci”n\fabian\clase 17 (recursividad)\lista_simplemente_enlazada.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_simplemente_enlazada.h"
+
+1476046410 d:\unlam\programaci”n\fabian\clase 17 (recursividad)\lista_simplemente_enlazada.h
+	"dato.h"
+
+1477263580 d:\unlam\programaci”n\fabian\clase 17 (recursividad)\dato.h
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1473006282 source:d:\unlam\programaciÓn\fabian 2\matrices_cargar y mostrar con aritmética de punteros\main.c
+	"header.h"
+
+1473006236 d:\unlam\programaciÓn\fabian 2\matrices_cargar y mostrar con aritmética de punteros\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1472675876 source:d:\unlam\programaci”n\fabian 2\vectores_menu completo\functions.c
+	"header.h"
+
+1472614394 d:\unlam\programaci”n\fabian 2\vectores_menu completo\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+	<windows.h>
+
+1472677377 source:d:\unlam\programaci”n\fabian 2\vectores_menu completo\main.c
+	"header.h"
+
+1472676053 source:d:\unlam\programaci”n\fabian 2\vectores_menu completo\menu.c
+	"header.h"
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1473885502 source:d:\unlam\programaci”n\fabian 2\clase 09 (archivo bin a txt long fija y variable)\functions.c
+	"header.h"
+
+1473885264 d:\unlam\programaci”n\fabian 2\clase 09 (archivo bin a txt long fija y variable)\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+	<stdlib.h>
+

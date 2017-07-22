@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1472003377 source:d:\unlam\programaciÓn\fabian 2da\clase 03 (array unidimensional,vector,declaración e inicialización)\main.c
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+

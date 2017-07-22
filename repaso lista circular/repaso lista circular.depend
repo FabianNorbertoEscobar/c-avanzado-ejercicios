@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1478981630 source:d:\unlam\programaci”n\fabian\repaso lista circular\funciones.c
+	"header.h"
+
+1478981554 d:\unlam\programaci”n\fabian\repaso lista circular\header.h
+	"primitivas_lista_circular.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
+1478982388 d:\unlam\programaci”n\fabian\repaso lista circular\primitivas_lista_circular.h
+	"dato.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
+1478981308 d:\unlam\programaci”n\fabian\repaso lista circular\dato.h
+
+1478984229 source:d:\unlam\programaci”n\fabian\repaso lista circular\main.c
+	"header.h"
+
+1478984235 source:d:\unlam\programaci”n\fabian\repaso lista circular\primitivas_lista_circular.c
+	"primitivas_lista_circular.h"
+

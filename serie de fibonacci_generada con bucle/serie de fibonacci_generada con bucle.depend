@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1471563373 source:d:\unlam\programaci”n\fabian 2da\serie de fibonacci_generada con bucle\main.c
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+

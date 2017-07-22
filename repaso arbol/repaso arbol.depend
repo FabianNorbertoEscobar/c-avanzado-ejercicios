@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1479079953 source:d:\unlam\programaci”n\fabian\repaso arbol\funciones.c
+	"header.h"
+
+1479058626 d:\unlam\programaci”n\fabian\repaso arbol\header.h
+	"primitivas_arbol.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
+1479079893 d:\unlam\programaci”n\fabian\repaso arbol\primitivas_arbol.h
+	"dato.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
+1479058363 d:\unlam\programaci”n\fabian\repaso arbol\dato.h
+
+1479094494 source:d:\unlam\programaci”n\fabian\repaso arbol\main.c
+	"header.h"
+
+1479094110 source:d:\unlam\programaci”n\fabian\repaso arbol\primitivas_arbol.c
+	"primitivas_arbol.h"
+

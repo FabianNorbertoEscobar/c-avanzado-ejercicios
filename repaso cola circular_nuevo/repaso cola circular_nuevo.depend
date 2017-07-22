@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1480033553 source:d:\unlam\programaci”n\fabian\repaso cola circular_nuevo\cola circular.c
+	"cola circular.h"
+
+1480033491 d:\unlam\programaci”n\fabian\repaso cola circular_nuevo\cola circular.h
+	"dato.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
+1480030305 d:\unlam\programaci”n\fabian\repaso cola circular_nuevo\dato.h
+
+1480033559 source:d:\unlam\programaci”n\fabian\repaso cola circular_nuevo\funciones.c
+	"header.h"
+
+1480030511 d:\unlam\programaci”n\fabian\repaso cola circular_nuevo\header.h
+	"cola circular.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+

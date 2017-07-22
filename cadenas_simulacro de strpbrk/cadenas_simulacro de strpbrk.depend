@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1473292805 source:d:\unlam\programaci”n\fabian 2\cadenas_simulacro de strpbrk\main.c
+	"header.h"
+
+1473292749 d:\unlam\programaci”n\fabian 2\cadenas_simulacro de strpbrk\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+

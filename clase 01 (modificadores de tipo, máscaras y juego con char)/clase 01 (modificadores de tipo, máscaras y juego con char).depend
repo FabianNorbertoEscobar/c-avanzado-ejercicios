@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1471400681 source:d:\unlam\programaci”n\fabian 2da cursada\clase 01 (modificadores de tipo, m·scaras y juego con char)\main.c
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+

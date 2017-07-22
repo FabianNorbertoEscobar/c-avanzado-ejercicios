@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1473295359 source:d:\unlam\programaci”n\fabian 2\cadenas_simulacro de strtok\functions.c
+	"header.h"
+
+1473294345 d:\unlam\programaci”n\fabian 2\cadenas_simulacro de strtok\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
+1473295251 source:d:\unlam\programaci”n\fabian 2\cadenas_simulacro de strtok\main.c
+	"header.h"
+

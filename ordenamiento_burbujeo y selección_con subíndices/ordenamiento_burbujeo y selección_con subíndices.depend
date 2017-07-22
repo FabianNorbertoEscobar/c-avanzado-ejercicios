@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1472076280 source:d:\unlam\programaciÓn\fabian 2da\ordenamiento_burbujeo y selección_con subíndices\main.c
+	"header.h"
+
+1472073691 d:\unlam\programaciÓn\fabian 2da\ordenamiento_burbujeo y selección_con subíndices\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
+1472076092 source:d:\unlam\programaciÓn\fabian 2da\ordenamiento_burbujeo y selección_con subíndices\funciones.c
+	"header.h"
+

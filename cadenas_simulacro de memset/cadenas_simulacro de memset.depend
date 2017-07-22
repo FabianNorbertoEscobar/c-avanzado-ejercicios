@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1473361207 source:d:\unlam\programaci”n\fabian 2\cadenas_simulacro de memset\functions.c
+	"header.h"
+
+1473360995 d:\unlam\programaci”n\fabian 2\cadenas_simulacro de memset\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+

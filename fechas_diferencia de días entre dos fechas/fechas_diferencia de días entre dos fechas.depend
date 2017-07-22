@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1471804773 source:d:\unlam\programaciÓn\fabian 2da\fechas_diferencia de días entre dos fechas\funciones.c
+	"header.h"
+
+1471801065 d:\unlam\programaciÓn\fabian 2da\fechas_diferencia de días entre dos fechas\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+	<stdlib.h>
+
+1471799377 source:d:\unlam\programaciÓn\fabian 2da\fechas_diferencia de días entre dos fechas\main.c
+	"header.h"
+

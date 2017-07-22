@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1475434360 source:d:\unlam\programaci”n\fabian 2\clase 12 (primitivas de cola din·mica)\functions.c
+	"header.h"
+
+1475436853 d:\unlam\programaci”n\fabian 2\clase 12 (primitivas de cola din·mica)\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	"primitivas_cola_din·mica.h"
+
+1475435235 d:\unlam\programaci”n\fabian 2\clase 12 (primitivas de cola din·mica)\primitivas_cola_din·mica.h
+	"dato.h"
+
+1475434968 d:\unlam\programaci”n\fabian 2\clase 12 (primitivas de cola din·mica)\dato.h
+
+1475436804 source:d:\unlam\programaci”n\fabian 2\clase 12 (primitivas de cola din·mica)\main.c
+	"header.h"
+

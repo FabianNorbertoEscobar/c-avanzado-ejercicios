@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1472161947 source:d:\unlam\programaci”n\fabian 2da\vectores_insertar elemento sin alterar el orden ascendente_con indirecciones\main.c
+	"header.h"
+
+1472163660 d:\unlam\programaci”n\fabian 2da\vectores_insertar elemento sin alterar el orden ascendente_con indirecciones\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
+1472172922 source:d:\unlam\programaci”n\fabian 2da\vectores_insertar elemento sin alterar el orden ascendente_con indirecciones\functions.c
+	"header.h"
+
+1472172922 source:d:\unlam\programaci”n\fabian 2\vectores_insertar elemento sin alterar el orden ascendente_con indirecciones\functions.c
+	"header.h"
+
+1472163660 d:\unlam\programaci”n\fabian 2\vectores_insertar elemento sin alterar el orden ascendente_con indirecciones\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
+1472161947 source:d:\unlam\programaci”n\fabian 2\vectores_insertar elemento sin alterar el orden ascendente_con indirecciones\main.c
+	"header.h"
+

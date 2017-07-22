@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1473887411 source:d:\unlam\programaciÓn\fabian 2\array float_mínimo, promedio pos pares, orden inverso y grabar en fichero\functions.c
+	"header.h"
+
+1473887446 d:\unlam\programaciÓn\fabian 2\array float_mínimo, promedio pos pares, orden inverso y grabar en fichero\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+	<windows.h>
+
+1473619861 source:d:\unlam\programaciÓn\fabian 2\array float_mínimo, promedio pos pares, orden inverso y grabar en fichero\main.c
+	"header.h"
+

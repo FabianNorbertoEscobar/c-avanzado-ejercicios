@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1482793633 source:d:\unlam\programaci”n\fabian\cara o seca_lanzamiento de moneda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

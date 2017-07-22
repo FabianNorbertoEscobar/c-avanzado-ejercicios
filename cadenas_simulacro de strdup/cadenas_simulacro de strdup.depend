@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1473296927 source:d:\unlam\programaci”n\fabian 2\cadenas_simulacro de strdup\functions.c
+	"header.h"
+
+1473297106 d:\unlam\programaci”n\fabian 2\cadenas_simulacro de strdup\header.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<locale.h>
+
+1473297075 source:d:\unlam\programaci”n\fabian 2\cadenas_simulacro de strdup\main.c
+	"header.h"
+

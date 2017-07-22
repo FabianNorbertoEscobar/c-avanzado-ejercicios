@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1479688428 source:d:\unlam\programaci”n\fabian\parcial 2 (lista doble pedidos, arch stock,arbol ind arch,pila circ sin stock)\arbol_binario_de_busqueda.c
+	"arbol_binario_de_busqueda.h"
+
+1479423291 d:\unlam\programaci”n\fabian\parcial 2 (lista doble pedidos, arch stock,arbol ind arch,pila circ sin stock)\arbol_binario_de_busqueda.h
+	<stdio.h>
+	<stdlib.h>
+
+1479688327 source:d:\unlam\programaci”n\fabian\parcial 2 (lista doble pedidos, arch stock,arbol ind arch,pila circ sin stock)\funciones.c
+	"header.h"
+
+1479683393 d:\unlam\programaci”n\fabian\parcial 2 (lista doble pedidos, arch stock,arbol ind arch,pila circ sin stock)\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	"lista_doblemente_enlazada.h"
+	"arbol_binario_de_busqueda.h"
+	"pila_circular.h"
+
+1479432655 d:\unlam\programaci”n\fabian\parcial 2 (lista doble pedidos, arch stock,arbol ind arch,pila circ sin stock)\lista_doblemente_enlazada.h
+	<stdio.h>
+	<stdlib.h>
+
+1479432442 d:\unlam\programaci”n\fabian\parcial 2 (lista doble pedidos, arch stock,arbol ind arch,pila circ sin stock)\pila_circular.h
+	<stdio.h>
+	<stdlib.h>
+
+1479685573 source:d:\unlam\programaci”n\fabian\parcial 2 (lista doble pedidos, arch stock,arbol ind arch,pila circ sin stock)\lista_doblemente_enlazada.c
+	"lista_doblemente_enlazada.h"
+
+1479688363 source:d:\unlam\programaci”n\fabian\parcial 2 (lista doble pedidos, arch stock,arbol ind arch,pila circ sin stock)\main.c
+	"header.h"
+
+1479432721 source:d:\unlam\programaci”n\fabian\parcial 2 (lista doble pedidos, arch stock,arbol ind arch,pila circ sin stock)\pila_circular.c
+	"pila_circular.h"
+

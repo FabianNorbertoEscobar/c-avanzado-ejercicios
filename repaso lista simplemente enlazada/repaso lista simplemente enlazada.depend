@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1477003961 source:d:\unlam\programaci”n\fabian\repaso lista simplemente enlazada\functions.c
+	"header.h"
+
+1477003704 d:\unlam\programaci”n\fabian\repaso lista simplemente enlazada\header.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<locale.h>
+	"lista_simplemente_enlazada.h"
+
+1477013335 d:\unlam\programaci”n\fabian\repaso lista simplemente enlazada\lista_simplemente_enlazada.h
+	"dato.h"
+	<stdio.h>
+	<stdlib.h>
+
+1477002959 d:\unlam\programaci”n\fabian\repaso lista simplemente enlazada\dato.h
+
+1477009083 source:d:\unlam\programaci”n\fabian\repaso lista simplemente enlazada\main.c
+	"header.h"
+
+1477013481 source:d:\unlam\programaci”n\fabian\repaso lista simplemente enlazada\lista_simplemente_enlazada.c
+	"lista_simplemente_enlazada.h"
+

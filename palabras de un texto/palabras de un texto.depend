@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1474333326 source:d:\unlam\programaci”n\fabian 2\palabras de un texto\functions.c
+	"header.h"
+
+1474333331 d:\unlam\programaci”n\fabian 2\palabras de un texto\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
+1474334884 source:d:\unlam\programaci”n\fabian 2\palabras de un texto\main.c
+	"header.h"
+

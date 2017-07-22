@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1474503622 source:d:\unlam\programaciÓn\fabian 2\generador de números pseudo aleatorios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+

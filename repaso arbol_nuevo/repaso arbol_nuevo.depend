@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1480364051 source:d:\unlam\programaci”n\fabian\repaso arbol_nuevo\funciones.c
+	"header.h"
+
+1480364034 d:\unlam\programaci”n\fabian\repaso arbol_nuevo\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	"arbol.h"
+
+1480953721 d:\unlam\programaci”n\fabian\repaso arbol_nuevo\arbol.h
+	<stdio.h>
+	<stdlib.h>
+
+1480367745 source:d:\unlam\programaci”n\fabian\repaso arbol_nuevo\arbol.c
+	"arbol.h"
+
+1480367729 source:d:\unlam\programaci”n\fabian\repaso arbol_nuevo\main.c
+	"header.h"
+

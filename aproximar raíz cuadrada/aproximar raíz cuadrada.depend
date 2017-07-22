@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1471558636 source:d:\unlam\programaciÓn\fabian 2da\aproximar raíz cuadrada\main.c
+	"encabezados.h"
+
+1472315455 d:\unlam\programaciÓn\fabian 2da\aproximar raíz cuadrada\encabezados.h
+	<stdio.h>
+	<conio.h>
+	<math.h>
+	<locale.h>
+
+1472315601 source:d:\unlam\programaciÓn\fabian 2da\aproximar raíz cuadrada\funciones.c
+	"encabezados.h"
+

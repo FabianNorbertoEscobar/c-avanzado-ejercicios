@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1475434360 source:d:\unlam\programaci”n\fabian 2\clase 12 (primitivas de cola est·tica)\functions.c
+	"header.h"
+
+1475434315 d:\unlam\programaci”n\fabian 2\clase 12 (primitivas de cola est·tica)\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	"primitivas_cola_est·tica.h"
+
+1475433603 d:\unlam\programaci”n\fabian 2\clase 12 (primitivas de cola est·tica)\primitivas_cola_est·tica.h
+	"dato.h"
+
+1475433078 d:\unlam\programaci”n\fabian 2\clase 12 (primitivas de cola est·tica)\dato.h
+
+1475434601 source:d:\unlam\programaci”n\fabian 2\clase 12 (primitivas de cola est·tica)\main.c
+	"header.h"
+

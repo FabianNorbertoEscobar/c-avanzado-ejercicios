@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1472689641 source:d:\unlam\programaciÓn\fabian 2\clase 05 (macroreemplazos y macros multilínea)\main.c
+	"header.h"
+
+1472689639 d:\unlam\programaciÓn\fabian 2\clase 05 (macroreemplazos y macros multilínea)\header.h
+	<stdio.h>
+	<conio.h>
+	<math.h>
+	<locale.h>
+

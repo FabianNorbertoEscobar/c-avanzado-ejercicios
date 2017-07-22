@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1477249387 source:d:\unlam\programaci”n\fabian\clase 17 (funciones iterativas vs funciones recursivas)\functions.c
+	"header.h"
+
+1477248829 d:\unlam\programaci”n\fabian\clase 17 (funciones iterativas vs funciones recursivas)\header.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<locale.h>
+
+1477249336 source:d:\unlam\programaci”n\fabian\clase 17 (funciones iterativas vs funciones recursivas)\main.c
+	"header.h"
+

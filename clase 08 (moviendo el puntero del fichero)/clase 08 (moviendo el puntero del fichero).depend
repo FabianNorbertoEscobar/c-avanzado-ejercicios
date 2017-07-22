@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1473542789 source:d:\unlam\programaci”n\fabian 2\clase 08 (moviendo el puntero del fichero)\main.c
+	"header.h"
+
+1473541525 d:\unlam\programaci”n\fabian 2\clase 08 (moviendo el puntero del fichero)\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+	<stdlib.h>
+

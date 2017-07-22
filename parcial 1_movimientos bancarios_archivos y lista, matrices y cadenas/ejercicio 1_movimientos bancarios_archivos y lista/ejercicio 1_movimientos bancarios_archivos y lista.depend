@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1476552993 source:d:\unlam\programaci”n\fabian\parcial 1_movimientos bancarios_archivos y lista, matrices y cadenas\ejercicio 1_movimientos bancarios_archivos y lista\funciones.c
+	"header.h"
+
+1476553193 d:\unlam\programaci”n\fabian\parcial 1_movimientos bancarios_archivos y lista, matrices y cadenas\ejercicio 1_movimientos bancarios_archivos y lista\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	"lista_simplemente_enlazada.h"
+
+1476554969 d:\unlam\programaci”n\fabian\parcial 1_movimientos bancarios_archivos y lista, matrices y cadenas\ejercicio 1_movimientos bancarios_archivos y lista\lista_simplemente_enlazada.h
+	"dato.h"
+
+1476554984 d:\unlam\programaci”n\fabian\parcial 1_movimientos bancarios_archivos y lista, matrices y cadenas\ejercicio 1_movimientos bancarios_archivos y lista\dato.h
+
+1476554636 source:d:\unlam\programaci”n\fabian\parcial 1_movimientos bancarios_archivos y lista, matrices y cadenas\ejercicio 1_movimientos bancarios_archivos y lista\lista_simplemente_enlazada.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_simplemente_enlazada.h"
+

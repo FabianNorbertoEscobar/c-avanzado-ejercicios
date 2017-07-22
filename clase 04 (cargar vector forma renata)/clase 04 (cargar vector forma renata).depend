@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1472321069 source:d:\unlam\programaci”n\fabian 2\clase 04 (cargar vector forma renata)\functions.c
+	"header.h"
+
+1472320605 d:\unlam\programaci”n\fabian 2\clase 04 (cargar vector forma renata)\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
+1472321032 source:d:\unlam\programaci”n\fabian 2\clase 04 (cargar vector forma renata)\main.c
+	"header.h"
+

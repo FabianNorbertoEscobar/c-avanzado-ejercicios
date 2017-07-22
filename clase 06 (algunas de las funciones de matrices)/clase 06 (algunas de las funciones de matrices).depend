@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1473005417 source:d:\unlam\programaci”n\fabian 2\clase 06 (algunas de las funciones de matrices)\functions.c
+	"header.h"
+
+1473005497 d:\unlam\programaci”n\fabian 2\clase 06 (algunas de las funciones de matrices)\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
+1473005436 source:d:\unlam\programaci”n\fabian 2\clase 06 (algunas de las funciones de matrices)\main.c
+	"header.h"
+

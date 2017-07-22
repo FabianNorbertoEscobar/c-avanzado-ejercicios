@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1482711822 source:d:\unlam\programaci”n\fabian\craps_juego de azar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

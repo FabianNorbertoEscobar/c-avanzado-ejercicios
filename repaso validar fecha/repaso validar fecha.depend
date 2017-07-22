@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1477017625 source:d:\unlam\programaci”n\fabian\repaso validar fecha\funciones.c
+	"header.h"
+
+1471741006 d:\unlam\programaci”n\fabian\repaso validar fecha\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+

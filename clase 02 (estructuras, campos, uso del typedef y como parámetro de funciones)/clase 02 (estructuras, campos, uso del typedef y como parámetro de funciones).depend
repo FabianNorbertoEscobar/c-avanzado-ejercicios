@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1471731926 source:d:\unlam\programaci”n\fabian 2da\clase 02 (estructuras, campos, uso del typedef y como par·metro de funciones)\funciones.c
+	"header.h"
+
+1471732568 d:\unlam\programaci”n\fabian 2da\clase 02 (estructuras, campos, uso del typedef y como par·metro de funciones)\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
+1471732774 source:d:\unlam\programaci”n\fabian 2da\clase 02 (estructuras, campos, uso del typedef y como par·metro de funciones)\main.c
+	"header.h"
+

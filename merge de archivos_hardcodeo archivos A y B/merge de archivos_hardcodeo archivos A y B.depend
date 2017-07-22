@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1474224573 source:d:\unlam\programaci”n\fabian 2\merge de archivos_hardcodeo archivos a y b\functions.c
+	"header.h"
+
+1474223987 d:\unlam\programaci”n\fabian 2\merge de archivos_hardcodeo archivos a y b\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
+1474223949 source:d:\unlam\programaci”n\fabian 2\merge de archivos_hardcodeo archivos a y b\main.c
+	"header.h"
+

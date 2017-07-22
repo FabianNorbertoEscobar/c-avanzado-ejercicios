@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1480291280 source:d:\unlam\programaci”n\fabian\impuestos de empleados por sus sueldos\arbol.c
+	"arbol.h"
+
+1480289982 d:\unlam\programaci”n\fabian\impuestos de empleados por sus sueldos\arbol.h
+	<stdio.h>
+	<stdlib.h>
+
+1480284382 source:d:\unlam\programaci”n\fabian\impuestos de empleados por sus sueldos\comparaciones.c
+	"header.h"
+
+1480290195 d:\unlam\programaci”n\fabian\impuestos de empleados por sus sueldos\header.h
+	"lista_doblemente_enlazada.h"
+	"arbol.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
+1480290067 d:\unlam\programaci”n\fabian\impuestos de empleados por sus sueldos\lista_doblemente_enlazada.h
+	<stdio.h>
+	<stdlib.h>
+
+1480294200 source:d:\unlam\programaci”n\fabian\impuestos de empleados por sus sueldos\funciones.c
+	"header.h"
+
+1480293888 source:d:\unlam\programaci”n\fabian\impuestos de empleados por sus sueldos\lista_doblemente_enlazada.c
+	"lista_doblemente_enlazada.h"
+
+1480294051 source:d:\unlam\programaci”n\fabian\impuestos de empleados por sus sueldos\main.c
+	"header.h"
+
+1480290496 source:d:\unlam\programaci”n\fabian\impuestos de empleados por sus sueldos\utilidades.c
+	"header.h"
+

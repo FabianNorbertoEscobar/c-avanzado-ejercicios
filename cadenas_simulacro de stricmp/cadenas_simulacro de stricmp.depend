@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1473283949 source:d:\unlam\programaci”n\fabian 2\cadenas_simulacro de stricmp\main.c
+	"header.h"
+
+1473284064 d:\unlam\programaci”n\fabian 2\cadenas_simulacro de stricmp\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
+1473283988 source:d:\unlam\programaci”n\fabian 2\cadenas_simulacro de stricmp\functions.c
+	"header.h"
+

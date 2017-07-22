@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1474576171 source:d:\unlam\programaciÓn\fabian 2\cadena que representa número, capicúa, múltiplo\functions.c
+	"header.h"
+
+1474576038 d:\unlam\programaciÓn\fabian 2\cadena que representa número, capicúa, múltiplo\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	<limits.h>
+
+1474575896 source:d:\unlam\programaciÓn\fabian 2\cadena que representa número, capicúa, múltiplo\main.c
+	"header.h"
+

@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1475429340 source:d:\unlam\programaci”n\fabian 2\clase 11 (primitivas de pila din·mica)\functions.c
+	"header.h"
+
+1475429303 d:\unlam\programaci”n\fabian 2\clase 11 (primitivas de pila din·mica)\header.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<locale.h>
+	"primitivas_pila_din·mica.h"
+
+1475429263 d:\unlam\programaci”n\fabian 2\clase 11 (primitivas de pila din·mica)\primitivas_pila_din·mica.h
+	"dato.h"
+
+1475429252 d:\unlam\programaci”n\fabian 2\clase 11 (primitivas de pila din·mica)\dato.h
+
+1475429352 source:d:\unlam\programaci”n\fabian 2\clase 11 (primitivas de pila din·mica)\main.c
+	"header.h"
+
+1475429340 source:d:\unlam\programaci”n\fabian\clase 11 (primitivas de pila din·mica)\functions.c
+	"header.h"
+
+1475429303 d:\unlam\programaci”n\fabian\clase 11 (primitivas de pila din·mica)\header.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<locale.h>
+	"primitivas_pila_din·mica.h"
+
+1475429263 d:\unlam\programaci”n\fabian\clase 11 (primitivas de pila din·mica)\primitivas_pila_din·mica.h
+	"dato.h"
+
+1475429252 d:\unlam\programaci”n\fabian\clase 11 (primitivas de pila din·mica)\dato.h
+
+1475429352 source:d:\unlam\programaci”n\fabian\clase 11 (primitivas de pila din·mica)\main.c
+	"header.h"
+

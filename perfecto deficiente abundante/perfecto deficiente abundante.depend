@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1471569938 source:d:\unlam\programaci”n\fabian 2da\perfecto deficiente abundante\funciones.c
+	"encabezados.h"
+
+1471569848 d:\unlam\programaci”n\fabian 2da\perfecto deficiente abundante\encabezados.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
+1471569879 source:d:\unlam\programaci”n\fabian 2da\perfecto deficiente abundante\main.c
+	"encabezados.h"
+

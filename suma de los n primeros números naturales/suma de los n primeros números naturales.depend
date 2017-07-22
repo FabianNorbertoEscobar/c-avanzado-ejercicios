@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1471483532 source:d:\unlam\programaciÓn\fabian 2da\suma de los n primeros números naturales\main.c
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+

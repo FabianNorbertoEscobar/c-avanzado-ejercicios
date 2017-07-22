@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1471469241 source:d:\unlam\programaciÓn\fabian 2da cursada\código ascii\main.c
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+

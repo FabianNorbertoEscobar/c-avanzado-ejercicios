@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1474764501 source:d:\unlam\programaciÓn\fabian 2\sumar números cargados en pilas_versión 2\functions.c
+	"header.h"
+
+1474761244 d:\unlam\programaciÓn\fabian 2\sumar números cargados en pilas_versión 2\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	"primitivas_pila_estática.h"
+
+1474755851 d:\unlam\programaciÓn\fabian 2\sumar números cargados en pilas_versión 2\primitivas_pila_estática.h
+	"dato.h"
+
+1474761251 d:\unlam\programaciÓn\fabian 2\sumar números cargados en pilas_versión 2\dato.h
+
+1474761228 source:d:\unlam\programaciÓn\fabian 2\sumar números cargados en pilas_versión 2\main.c
+	"header.h"
+
+1474754039 source:d:\unlam\programaciÓn\fabian 2\sumar números cargados en pilas_versión 2\primitivas_pila_estática.c
+	"primitivas_pila_estática.h"
+

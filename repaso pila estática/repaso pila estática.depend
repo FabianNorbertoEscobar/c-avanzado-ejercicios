@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1476991460 source:d:\unlam\programaci”n\fabian\repaso pila est·tica\functions.c
+	"header.h"
+
+1476989392 d:\unlam\programaci”n\fabian\repaso pila est·tica\header.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<locale.h>
+	"primitivas_pila_est·tica.h"
+
+1476994111 d:\unlam\programaci”n\fabian\repaso pila est·tica\primitivas_pila_est·tica.h
+	"dato.h"
+
+1476988594 d:\unlam\programaci”n\fabian\repaso pila est·tica\dato.h
+
+1476991186 source:d:\unlam\programaci”n\fabian\repaso pila est·tica\main.c
+	"header.h"
+
+1476990262 source:d:\unlam\programaci”n\fabian\repaso pila est·tica\primitivas_pila_est·tica.c
+	"primitivas_pila_est·tica.h"
+

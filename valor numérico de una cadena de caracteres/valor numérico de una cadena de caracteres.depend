@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1473363093 source:d:\unlam\programaciÓn\fabian 2\valor numérico de una cadena de caracteres\main.c
+	"header.h"
+
+1473363168 d:\unlam\programaciÓn\fabian 2\valor numérico de una cadena de caracteres\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
+1473363845 source:d:\unlam\programaciÓn\fabian 2\valor numérico de una cadena de caracteres\functions.c
+	"header.h"
+

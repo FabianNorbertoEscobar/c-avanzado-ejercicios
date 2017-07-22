@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1472316418 source:d:\unlam\programaciÓn\fabian 2da\serie de fibonacci_enésimo término aproximado con número áurico\funciones.c
+	"encabezados.h"
+
+1471568691 d:\unlam\programaciÓn\fabian 2da\serie de fibonacci_enésimo término aproximado con número áurico\encabezados.h
+	<stdio.h>
+	<conio.h>
+	<math.h>
+	<locale.h>
+
+1471568678 source:d:\unlam\programaciÓn\fabian 2da\serie de fibonacci_enésimo término aproximado con número áurico\main.c
+	"encabezados.h"
+

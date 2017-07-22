@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1471745228 source:d:\unlam\programaciÓn\fabian 2da\fechas_sumar n días\funciones.c
+	"header.h"
+
+1471745119 d:\unlam\programaciÓn\fabian 2da\fechas_sumar n días\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
+1471745416 source:d:\unlam\programaciÓn\fabian 2da\fechas_sumar n días\main.c
+	"header.h"
+

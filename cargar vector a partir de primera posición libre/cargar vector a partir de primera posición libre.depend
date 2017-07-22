@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1472188485 source:d:\unlam\programaciÓn\fabian 2da\cargar vector a partir de primera posición libre\functions.c
+	"header.h"
+
+1472187771 d:\unlam\programaciÓn\fabian 2da\cargar vector a partir de primera posición libre\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
+1472187810 source:d:\unlam\programaciÓn\fabian 2da\cargar vector a partir de primera posición libre\main.c
+	"header.h"
+

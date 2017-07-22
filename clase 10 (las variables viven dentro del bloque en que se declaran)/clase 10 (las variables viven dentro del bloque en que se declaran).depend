@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1474479562 source:d:\unlam\programaci”n\fabian 2\clase 10 (las variables viven dentro del bloque en que se declaran)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1472317974 source:d:\unlam\programaci”n\fabian 2da\fechas_es fecha correcta\funciones.c
+	"header.h"
+
+1471741006 d:\unlam\programaci”n\fabian 2da\fechas_es fecha correcta\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
+1471743627 source:d:\unlam\programaci”n\fabian 2da\fechas_es fecha correcta\main.c
+	"header.h"
+

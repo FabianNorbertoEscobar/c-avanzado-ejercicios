@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1473711292 source:d:\unlam\programaci”n\fabian 2\getchar y putchar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	<string.h>
+

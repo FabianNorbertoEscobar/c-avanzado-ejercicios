@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1471731128 source:d:\unlam\programaciÓn\fabian 2da\clase 02 (conversión automática de tipo, casteo, pre y pos incremento, y operador ternario)\main.c
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+

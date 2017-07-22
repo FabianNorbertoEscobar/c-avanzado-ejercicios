@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1471559973 source:d:\unlam\programaci”n\fabian 2da\aproximar seno\funciones.c
+	"encabezados.h"
+
+1471559960 d:\unlam\programaci”n\fabian 2da\aproximar seno\encabezados.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+	<math.h>
+
+1471557355 source:d:\unlam\programaci”n\fabian 2da\aproximar seno\main.c
+	"encabezados.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1476049596 source:d:\unlam\programaciÓn\fabian\matrices_es simétrica respecto diagonal secundaria\functions.c
+	"header.h"
+
+1476049366 d:\unlam\programaciÓn\fabian\matrices_es simétrica respecto diagonal secundaria\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
+1476049358 source:d:\unlam\programaciÓn\fabian\matrices_es simétrica respecto diagonal secundaria\main.c
+	"header.h"
+

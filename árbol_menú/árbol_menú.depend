@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1478551603 source:d:\unlam\programaciÓn\fabian\árbol_menú\funciones.c
+	"header.h"
+
+1478548675 d:\unlam\programaciÓn\fabian\árbol_menú\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	"primitivas_árbol.h"
+
+1480953444 d:\unlam\programaciÓn\fabian\árbol_menú\primitivas_árbol.h
+	"primitivas_pila_dinámica.h"
+	<stdio.h>
+	<stdlib.h>
+
+1477843548 d:\unlam\programaciÓn\fabian\árbol_menú\primitivas_pila_dinámica.h
+	"dato.h"
+
+1477952674 d:\unlam\programaciÓn\fabian\árbol_menú\dato.h
+
+1480209699 source:d:\unlam\programaciÓn\fabian\árbol_menú\menu.c
+	"header.h"
+
+1477843602 source:d:\unlam\programaciÓn\fabian\árbol_menú\primitivas_pila_dinámica.c
+	"primitivas_pila_dinámica.h"
+	<stdio.h>
+	<stdlib.h>
+
+1479091829 source:d:\unlam\programaciÓn\fabian\árbol_menú\primitivas_árbol.c
+	"primitivas_árbol.h"
+
+1480210454 source:d:\unlam\programaciÓn\fabian\árbol_menú\main.c
+	"header.h"
+

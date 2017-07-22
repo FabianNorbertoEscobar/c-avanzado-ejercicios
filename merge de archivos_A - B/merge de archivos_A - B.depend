@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1474238841 source:d:\unlam\programaci”n\fabian 2\merge de archivos_a - b\functions.c
+	"header.h"
+
+1474237217 d:\unlam\programaci”n\fabian 2\merge de archivos_a - b\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+

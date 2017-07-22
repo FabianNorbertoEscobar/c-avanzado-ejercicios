@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1471570827 source:d:\unlam\programaci”n\fabian 2da\producto mediante sumas sucesivas\funciones.c
+	"encabezados.h"
+
+1471570535 d:\unlam\programaci”n\fabian 2da\producto mediante sumas sucesivas\encabezados.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
+1471570607 source:d:\unlam\programaci”n\fabian 2da\producto mediante sumas sucesivas\main.c
+	"encabezados.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1472316331 source:d:\unlam\programaci”n\fabian 2da\serie de fibonacci_n pertenece\funciones.c
+	"encabezados.h"
+
+1471739790 d:\unlam\programaci”n\fabian 2da\serie de fibonacci_n pertenece\encabezados.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
+1471739797 source:d:\unlam\programaci”n\fabian 2da\serie de fibonacci_n pertenece\main.c
+	"encabezados.h"
+

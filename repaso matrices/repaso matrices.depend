@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1476839820 source:d:\unlam\programaci”n\fabian\repaso matrices\funciones.c
+	"header.h"
+
+1476837716 d:\unlam\programaci”n\fabian\repaso matrices\header.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+
+1476839571 source:d:\unlam\programaci”n\fabian\repaso matrices\main.c
+	"header.h"
+

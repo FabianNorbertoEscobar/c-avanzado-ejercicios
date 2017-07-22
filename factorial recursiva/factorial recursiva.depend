@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1471479069 source:d:\unlam\programaci”n\fabian 2da\factorial recursiva\funciones.c
+	"encabezados.h"
+
+1471478313 d:\unlam\programaci”n\fabian 2da\factorial recursiva\encabezados.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
+1471478963 source:d:\unlam\programaci”n\fabian 2da\factorial recursiva\main.c
+	"encabezados.h"
+

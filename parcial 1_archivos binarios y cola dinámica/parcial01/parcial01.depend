@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1475694821 source:d:\unlam\programaci”n\fabian\parcial01\funciones\cola.c
+	<stdio.h>
+	<stdlib.h>
+	<cola.h>
+
+1475687773 d:\unlam\programaci”n\fabian\parcial01\include\cola.h
+
+1475697253 source:d:\unlam\programaci”n\fabian\parcial01\funciones\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<funciones.h>
+
+1475691847 d:\unlam\programaci”n\fabian\parcial01\include\funciones.h
+	<tipo.h>
+	<cola.h>
+
+1475686578 d:\unlam\programaci”n\fabian\parcial01\include\tipo.h
+
+1475695109 source:d:\unlam\programaci”n\fabian\parcial01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<funciones.h>
+	<conio.h>
+	<locale.h>
+

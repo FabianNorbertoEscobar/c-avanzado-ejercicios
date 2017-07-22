@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1476143962 source:d:\unlam\programaci”n\fabian\primitivas tda Ìndice est·tico con cola\funciones.c
+	"header.h"
+
+1476142377 d:\unlam\programaci”n\fabian\primitivas tda Ìndice est·tico con cola\header.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<locale.h>
+	"TDA_Ìndice_est·tico.h"
+
+1477174094 d:\unlam\programaci”n\fabian\primitivas tda Ìndice est·tico con cola\tda_Ìndice_est·tico.h
+	"registro.h"
+	"primitivas_cola_est·tica.h"
+
+1476140485 d:\unlam\programaci”n\fabian\primitivas tda Ìndice est·tico con cola\registro.h
+
+1476148827 source:d:\unlam\programaci”n\fabian\primitivas tda Ìndice est·tico con cola\main.c
+	"header.h"
+
+1477173814 source:d:\unlam\programaci”n\fabian\primitivas tda Ìndice est·tico con cola\tda_Ìndice_est·tico.c
+	"TDA_Ìndice_est·tico.h"
+	<stdio.h>
+	<stdlib.h>
+
+1475433603 d:\unlam\programaci”n\fabian\primitivas tda Ìndice est·tico con cola\primitivas_cola_est·tica.h
+	"dato.h"
+
+1477172010 d:\unlam\programaci”n\fabian\primitivas tda Ìndice est·tico con cola\dato.h
+
+1475434668 source:d:\unlam\programaci”n\fabian\primitivas tda Ìndice est·tico con cola\primitivas_cola_est·tica.c
+	"primitivas_cola_est·tica.h"
+

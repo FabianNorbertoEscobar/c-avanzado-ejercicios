@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1482795298 source:d:\unlam\programaci”n\fabian\lanzamiento de dado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

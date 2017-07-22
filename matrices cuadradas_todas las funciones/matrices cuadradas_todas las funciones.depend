@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1473028061 source:d:\unlam\programaci”n\fabian 2\matrices cuadradas_todas las funciones\functions.c
+	"header.h"
+
+1473023086 d:\unlam\programaci”n\fabian 2\matrices cuadradas_todas las funciones\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+	<windows.h>
+
+1473021624 source:d:\unlam\programaci”n\fabian 2\matrices cuadradas_todas las funciones\main.c
+	"header.h"
+

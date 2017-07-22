@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1478986542 source:d:\unlam\programaci”n\fabian\repaso pila circular\funciones.c
+	"header.h"
+
+1478986454 d:\unlam\programaci”n\fabian\repaso pila circular\header.h
+	"primitivas_pila_circular.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
+1478990078 d:\unlam\programaci”n\fabian\repaso pila circular\primitivas_pila_circular.h
+	"dato.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
+1478986187 d:\unlam\programaci”n\fabian\repaso pila circular\dato.h
+
+1478990050 source:d:\unlam\programaci”n\fabian\repaso pila circular\main.c
+	"header.h"
+

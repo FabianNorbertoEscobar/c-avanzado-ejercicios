@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1482868519 source:d:\unlam\programaciÓn\fabian\compilación condicional y directivas al preprocesador de c\main.c
+	<stdio.h>
+	<locale.h>
+

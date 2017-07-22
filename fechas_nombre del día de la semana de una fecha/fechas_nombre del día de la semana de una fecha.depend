@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1471748759 source:d:\unlam\programaciÓn\fabian 2da\fechas_nombre del día de la semana de una fecha\funciones.c
+	"header.h"
+
+1471748764 d:\unlam\programaciÓn\fabian 2da\fechas_nombre del día de la semana de una fecha\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
+1471748814 source:d:\unlam\programaciÓn\fabian 2da\fechas_nombre del día de la semana de una fecha\main.c
+	"header.h"
+
+1472318543 source:d:\unlam\programaciÓn\fabian 2\fechas_nombre del día de la semana de una fecha\funciones.c
+	"header.h"
+
+1471748764 d:\unlam\programaciÓn\fabian 2\fechas_nombre del día de la semana de una fecha\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
+1471748814 source:d:\unlam\programaciÓn\fabian 2\fechas_nombre del día de la semana de una fecha\main.c
+	"header.h"
+

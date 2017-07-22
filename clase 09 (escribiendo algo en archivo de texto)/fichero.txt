@@ -1,0 +1,43 @@
+
+ Principio del archivo de texto
+a
+b
+c
+
+ cada vez esto se pone más lindo 
+123456789
+123456789
+ 123456789
+ 123456789
+	123456789
+	123456789
+ 123456789 123456789 123456789
+ 123456789123456789123456789
+ 0123456789 123456789 1234567890
+
+Fabián Norberto Escobar
+Fabián Norberto Escobar
+ Fabián Norberto Escobar
+ Fabián Norberto Escobar
+	Fabián Norberto Escobar
+	 Fabián Norberto Escobar
+ 	 Fabián Norberto Escobar
+ 	 Fabián Norberto Escobar
+Fabián Norberto EscobarFabián Norberto EscobarFabián Norberto Escobar
+ Fabián Norberto Escobar Fabián Norberto Escobar Fabián Norberto Escobar
+ Fabián Norberto Escobar 123456789
+ Fabián Norberto Escobar 123456789
+ Fabián Norberto Escobar 123456789
+ Fabián Norberto Escobar 123456789
+ 123456789 Fabián Norberto Escobar
+ 123456789 Fabián Norberto Escobar
+ 123456789 Fabián Norberto Escobar
+ 123456789 Fabián Norberto Escobar
+                  Fabián Norberto Escobar  123456789
+ Fabián Norberto Escobar                   123456789
+                  Fabián Norberto Escobar 123456789 
+ Fabián Norberto Escobar                  123456789 
+ 123456789 Fabián Norberto Escobar
+ 123456789            Fabián Norberto Escobar
+ 123456789 Fabián Norberto Escobar
+ 123456789            Fabián Norberto Escobar

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1471565768 source:d:\unlam\programaci”n\fabian 2da\serie de fibonacci_generada con recursividad y switch\funciones.c
+	"encabezados.h"
+
+1471565451 d:\unlam\programaci”n\fabian 2da\serie de fibonacci_generada con recursividad y switch\encabezados.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
+1471565707 source:d:\unlam\programaci”n\fabian 2da\serie de fibonacci_generada con recursividad y switch\main.c
+	"encabezados.h"
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1482792292 source:d:\unlam\programaciÓn\fabian\enumeración_conjunto de identificadores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1471571178 source:d:\unlam\programaci”n\fabian 2da\cociente y resto\funciones.c
+	"encabezados.h"
+
+1471571141 d:\unlam\programaci”n\fabian 2da\cociente y resto\encabezados.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
+1471571401 source:d:\unlam\programaci”n\fabian 2da\cociente y resto\main.c
+	"encabezados.h"
+

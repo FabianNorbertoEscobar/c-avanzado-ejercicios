@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1473365614 source:d:\unlam\programaciÓn\fabian 2\palíndromo\functions.c
+	"header.h"
+
+1473365675 d:\unlam\programaciÓn\fabian 2\palíndromo\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
+1473361496 source:d:\unlam\programaciÓn\fabian 2\palíndromo\main.c
+	"header.h"
+

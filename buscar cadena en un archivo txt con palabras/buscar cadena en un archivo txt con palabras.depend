@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1474589183 source:d:\unlam\programaci”n\fabian 2\buscar cadena en un archivo txt con palabras\functions.c
+	"header.h"
+
+1474588143 d:\unlam\programaci”n\fabian 2\buscar cadena en un archivo txt con palabras\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
+1474589000 source:d:\unlam\programaci”n\fabian 2\buscar cadena en un archivo txt con palabras\main.c
+	"header.h"
+

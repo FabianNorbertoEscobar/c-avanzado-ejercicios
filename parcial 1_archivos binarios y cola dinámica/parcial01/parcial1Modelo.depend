@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1475437656 source:c:\users\federico\desktop\parcial1modelo\funciones\cola.c
+	<stdio.h>
+	<stdlib.h>
+	<cola.h>
+
+1475437656 c:\users\federico\desktop\parcial1modelo\include\cola.h
+
+1475437863 source:c:\users\federico\desktop\parcial1modelo\funciones\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<funciones.h>
+
+1475437940 c:\users\federico\desktop\parcial1modelo\include\funciones.h
+	<tipo.h>
+	<cola.h>
+
+1475435461 c:\users\federico\desktop\parcial1modelo\include\tipo.h
+
+1475436973 source:c:\users\federico\desktop\parcial1modelo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<funciones.h>
+

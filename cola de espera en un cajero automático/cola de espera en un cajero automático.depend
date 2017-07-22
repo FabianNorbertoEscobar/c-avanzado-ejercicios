@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1475455262 source:d:\unlam\programaci”n\fabian 2\cola de espera en un cajero autom·tico\main.c
+	"header.h"
+
+1475455123 d:\unlam\programaci”n\fabian 2\cola de espera en un cajero autom·tico\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	<string.h>
+	"primitivas_cola_est·tica.h"
+
+1475433603 d:\unlam\programaci”n\fabian 2\cola de espera en un cajero autom·tico\primitivas_cola_est·tica.h
+	"dato.h"
+
+1475454947 d:\unlam\programaci”n\fabian 2\cola de espera en un cajero autom·tico\dato.h
+
+1475434668 source:d:\unlam\programaci”n\fabian 2\cola de espera en un cajero autom·tico\primitivas_cola_est·tica.c
+	"primitivas_cola_est·tica.h"
+

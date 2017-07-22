@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1471480623 source:d:\unlam\programaciÓn\fabian 2da\número combinatorio\funciones.c
+	"encabezados.h"
+
+1471480002 d:\unlam\programaciÓn\fabian 2da\número combinatorio\encabezados.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
+1471481776 source:d:\unlam\programaciÓn\fabian 2da\número combinatorio\main.c
+	"encabezados.h"
+

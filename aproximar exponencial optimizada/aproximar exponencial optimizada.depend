@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1471558486 source:d:\unlam\programaci”n\fabian 2da\aproximar exponencial optimizada\funciones.c
+	"encabezados.h"
+
+1471550744 d:\unlam\programaci”n\fabian 2da\aproximar exponencial optimizada\encabezados.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
+1471550817 source:d:\unlam\programaci”n\fabian 2da\aproximar exponencial optimizada\main.c
+	"encabezados.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1473815362 source:d:\unlam\programaci”n\fabian 2\clase 09 (controlar y corregir edades de un archivo binario)\functions.c
+	"header.h"
+
+1473813957 d:\unlam\programaci”n\fabian 2\clase 09 (controlar y corregir edades de un archivo binario)\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+	<stdlib.h>
+
+1473815194 source:d:\unlam\programaci”n\fabian 2\clase 09 (controlar y corregir edades de un archivo binario)\main.c
+	"header.h"
+

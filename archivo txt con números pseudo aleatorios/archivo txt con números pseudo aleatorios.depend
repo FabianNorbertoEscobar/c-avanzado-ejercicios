@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1474563439 source:d:\unlam\programaciÓn\fabian 2\archivo txt con números pseudo aleatorios\functions.c
+	"header.h"
+
+1474562663 d:\unlam\programaciÓn\fabian 2\archivo txt con números pseudo aleatorios\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
+1474563533 source:d:\unlam\programaciÓn\fabian 2\archivo txt con números pseudo aleatorios\main.c
+	"header.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1474158159 source:d:\unlam\programaci”n\fabian 2\estudiantes y empleados\functions.c
+	"header.h"
+
+1474158698 d:\unlam\programaci”n\fabian 2\estudiantes y empleados\header.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<locale.h>
+
+1473972870 source:d:\unlam\programaci”n\fabian 2\estudiantes y empleados\main.c
+	"header.h"
+

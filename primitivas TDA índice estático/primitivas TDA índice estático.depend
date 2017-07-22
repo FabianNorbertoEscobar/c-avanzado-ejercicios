@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1476143962 source:d:\unlam\programaci”n\fabian\primitivas tda Ìndice est·tico\funciones.c
+	"header.h"
+
+1476142377 d:\unlam\programaci”n\fabian\primitivas tda Ìndice est·tico\header.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<locale.h>
+	"TDA_Ìndice_est·tico.h"
+
+1476142627 d:\unlam\programaci”n\fabian\primitivas tda Ìndice est·tico\tda_Ìndice_est·tico.h
+	"registro.h"
+
+1476140485 d:\unlam\programaci”n\fabian\primitivas tda Ìndice est·tico\registro.h
+
+1476148827 source:d:\unlam\programaci”n\fabian\primitivas tda Ìndice est·tico\main.c
+	"header.h"
+
+1476148676 source:d:\unlam\programaci”n\fabian\primitivas tda Ìndice est·tico\tda_Ìndice_est·tico.c
+	"TDA_Ìndice_est·tico.h"
+	<stdio.h>
+	<stdlib.h>
+
+1476142315 d:\unlam\programaci”n\fabian\primitivas tda Ìndice est·tico\tda_Ìndice_est·tico.c
+	"TDA_Ìndice_est·tico.h"
+	<stdio.h>
+	<stdlib.h>
+

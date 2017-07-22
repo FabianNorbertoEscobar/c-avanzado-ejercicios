@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1471475245 source:d:\unlam\programaci”n\fabian 2da\calculadora de operandos binarios\funciones.c
+	"encabezados.h"
+
+1471474779 d:\unlam\programaci”n\fabian 2da\calculadora de operandos binarios\encabezados.h
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<locale.h>
+
+1471474906 source:d:\unlam\programaci”n\fabian 2da\calculadora de operandos binarios\main.c
+	"encabezados.h"
+

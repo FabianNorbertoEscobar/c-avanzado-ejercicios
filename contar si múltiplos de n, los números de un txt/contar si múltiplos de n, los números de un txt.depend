@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1474579550 source:d:\unlam\programaciÓn\fabian 2\contar si múltiplos de n, los números de un txt\functions.c
+	"header.h"
+
+1474579435 d:\unlam\programaciÓn\fabian 2\contar si múltiplos de n, los números de un txt\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
+1474579569 source:d:\unlam\programaciÓn\fabian 2\contar si múltiplos de n, los números de un txt\main.c
+	"header.h"
+

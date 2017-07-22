@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1475444040 source:d:\unlam\programaci”n\fabian 2\normalizar_apellido_nombre\functions.c
+	"header.h"
+
+1475444019 d:\unlam\programaci”n\fabian 2\normalizar_apellido_nombre\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
+1475193588 source:d:\unlam\programaci”n\fabian 2\normalizar_apellido_nombre\main.c
+	"header.h"
+
+1480560012 source:d:\unlam\programaci”n\fabian\normalizar_apellido_nombre\functions.c
+	"header.h"
+
+1480557268 d:\unlam\programaci”n\fabian\normalizar_apellido_nombre\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
+1480555865 source:d:\unlam\programaci”n\fabian\normalizar_apellido_nombre\main.c
+	"header.h"
+

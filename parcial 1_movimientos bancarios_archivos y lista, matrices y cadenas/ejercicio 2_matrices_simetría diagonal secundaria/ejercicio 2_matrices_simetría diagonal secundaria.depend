@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1476409542 source:d:\unlam\programaciÓn\fabian\parcial 1_movimientos bancarios_archivos de texto, matrices y cadenas\ejercicio 2_matrices_simetría diagonal secundaria\funciones.c
+	"header.h"
+
+1476409460 d:\unlam\programaciÓn\fabian\parcial 1_movimientos bancarios_archivos de texto, matrices y cadenas\ejercicio 2_matrices_simetría diagonal secundaria\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
+1476409606 source:d:\unlam\programaciÓn\fabian\parcial 1_movimientos bancarios_archivos de texto, matrices y cadenas\ejercicio 2_matrices_simetría diagonal secundaria\main.c
+	"header.h"
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1476046191 source:d:\unlam\programaci”n\fabian\clase 13 y 14 (lista simplemente enlazada)\functions.c
+	"header.h"
+
+1476046239 d:\unlam\programaci”n\fabian\clase 13 y 14 (lista simplemente enlazada)\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	<string.h>
+	"lista_simplemente_enlazada.h"
+
+1476046410 d:\unlam\programaci”n\fabian\clase 13 y 14 (lista simplemente enlazada)\lista_simplemente_enlazada.h
+	"dato.h"
+
+1476046329 d:\unlam\programaci”n\fabian\clase 13 y 14 (lista simplemente enlazada)\dato.h
+

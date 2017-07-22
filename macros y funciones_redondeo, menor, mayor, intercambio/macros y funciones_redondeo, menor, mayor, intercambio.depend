@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1473702888 source:d:\unlam\programaci”n\fabian 2\macros y funciones_redondeo, menor, mayor, intercambio\functions.c
+	"header.h"
+
+1473703035 d:\unlam\programaci”n\fabian 2\macros y funciones_redondeo, menor, mayor, intercambio\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
+1473702099 source:d:\unlam\programaci”n\fabian 2\macros y funciones_redondeo, menor, mayor, intercambio\main.c
+	"header.h"
+

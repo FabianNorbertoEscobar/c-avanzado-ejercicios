@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1472442684 source:d:\unlam\programaciÓn\fabian 2\vectores_insertar y eliminar_con aritmética de punteros\main.c
+	"header.h"
+
+1472442158 d:\unlam\programaciÓn\fabian 2\vectores_insertar y eliminar_con aritmética de punteros\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
+1472442707 source:d:\unlam\programaciÓn\fabian 2\vectores_insertar y eliminar_con aritmética de punteros\functions.c
+	"header.h"
+

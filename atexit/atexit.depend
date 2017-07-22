@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1474501085 source:d:\unlam\programaci”n\fabian 2\atexit\functions.c
+	"header.h"
+
+1474501051 d:\unlam\programaci”n\fabian 2\atexit\header.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<locale.h>
+
+1474501003 source:d:\unlam\programaci”n\fabian 2\atexit\main.c
+	"header.h"
+

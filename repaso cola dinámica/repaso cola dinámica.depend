@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1476997868 source:d:\unlam\programaci”n\fabian\repaso cola din·mica\functions.c
+	"header.h"
+
+1476997768 d:\unlam\programaci”n\fabian\repaso cola din·mica\header.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<locale.h>
+	"primitivas_cola_din·mica.h"
+
+1477002624 d:\unlam\programaci”n\fabian\repaso cola din·mica\primitivas_cola_din·mica.h
+	"dato.h"
+	<stdio.h>
+	<stdlib.h>
+
+1476997572 d:\unlam\programaci”n\fabian\repaso cola din·mica\dato.h
+
+1476998068 source:d:\unlam\programaci”n\fabian\repaso cola din·mica\main.c
+	"header.h"
+

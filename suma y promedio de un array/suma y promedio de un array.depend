@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1473625938 source:d:\unlam\programaci”n\fabian 2\suma y promedio de un array\functions.c
+	"header.h"
+
+1473626281 d:\unlam\programaci”n\fabian 2\suma y promedio de un array\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+	<windows.h>
+
+1473626131 source:d:\unlam\programaci”n\fabian 2\suma y promedio de un array\main1.c
+	"header.h"
+
+1473626411 source:d:\unlam\programaci”n\fabian 2\suma y promedio de un array\main2.c
+	"header.h"
+

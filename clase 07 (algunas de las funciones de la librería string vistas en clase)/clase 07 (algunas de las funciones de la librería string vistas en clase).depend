@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1473282625 source:d:\unlam\programaciÓn\fabian 2\clase 07 (algunas de las funciones de la librería string vistas en clase)\functions.c
+	"header.h"
+
+1473286243 d:\unlam\programaciÓn\fabian 2\clase 07 (algunas de las funciones de la librería string vistas en clase)\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+	<ctype.h>
+
+1473277339 source:d:\unlam\programaciÓn\fabian 2\clase 07 (algunas de las funciones de la librería string vistas en clase)\main.c
+	"header.h"
+

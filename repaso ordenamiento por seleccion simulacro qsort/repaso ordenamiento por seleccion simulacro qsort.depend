@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1477016797 source:d:\unlam\programaci”n\fabian\repaso ordenamiento por seleccion simulacro qsort\functions.c
+	"header.h"
+
+1477016302 d:\unlam\programaci”n\fabian\repaso ordenamiento por seleccion simulacro qsort\header.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<locale.h>
+
+1477015685 source:d:\unlam\programaci”n\fabian\repaso ordenamiento por seleccion simulacro qsort\main.c
+	"header.h"
+

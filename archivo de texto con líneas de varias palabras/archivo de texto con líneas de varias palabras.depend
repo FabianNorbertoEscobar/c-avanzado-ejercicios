@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1474584988 source:d:\unlam\programaciÓn\fabian 2\archivo de texto con líneas de varias palabras\funcions.c
+	"header.h"
+
+1474585542 d:\unlam\programaciÓn\fabian 2\archivo de texto con líneas de varias palabras\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
+1474585825 source:d:\unlam\programaciÓn\fabian 2\archivo de texto con líneas de varias palabras\main.c
+	"header.h"
+

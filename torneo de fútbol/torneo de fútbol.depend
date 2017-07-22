@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1473037950 source:d:\unlam\programaciÓn\fabian 2\torneo de fútbol\main.c
+	"header.h"
+
+1473038562 d:\unlam\programaciÓn\fabian 2\torneo de fútbol\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
+1473038544 source:d:\unlam\programaciÓn\fabian 2\torneo de fútbol\functions.c
+	"header.h"
+

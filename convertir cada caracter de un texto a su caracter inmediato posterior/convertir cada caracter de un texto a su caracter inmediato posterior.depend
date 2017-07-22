@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1483212465 source:d:\unlam\programaci”n\fabian\programas en c\convertir cada caracter de un texto a su caracter inmediato posterior\funciones.c
+	"header.h"
+
+1483211441 d:\unlam\programaci”n\fabian\programas en c\convertir cada caracter de un texto a su caracter inmediato posterior\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
+1483212248 source:d:\unlam\programaci”n\fabian\programas en c\convertir cada caracter de un texto a su caracter inmediato posterior\main.c
+	"header.h"
+

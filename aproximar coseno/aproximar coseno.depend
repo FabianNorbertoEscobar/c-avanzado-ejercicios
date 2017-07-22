@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1471560800 source:d:\unlam\programaci”n\fabian 2da\aproximar coseno\funciones.c
+	"encabezados.h"
+
+1471560105 d:\unlam\programaci”n\fabian 2da\aproximar coseno\encabezados.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+	<math.h>
+
+1471560891 source:d:\unlam\programaci”n\fabian 2da\aproximar coseno\main.c
+	"encabezados.h"
+

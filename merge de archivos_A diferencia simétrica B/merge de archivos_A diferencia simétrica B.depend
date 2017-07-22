@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1474236268 source:d:\unlam\programaciÓn\fabian 2\merge de archivos_a diferencia simétrica b\functions.c
+	"header.h"
+
+1474236148 d:\unlam\programaciÓn\fabian 2\merge de archivos_a diferencia simétrica b\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
+1474236132 source:d:\unlam\programaciÓn\fabian 2\merge de archivos_a diferencia simétrica b\main.c
+	"header.h"
+

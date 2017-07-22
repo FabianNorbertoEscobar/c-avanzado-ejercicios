@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1473044759 source:d:\unlam\programaci”n\fabian 2\matrices_vecinos de un elemento\functions.c
+	"header.h"
+
+1473044893 d:\unlam\programaci”n\fabian 2\matrices_vecinos de un elemento\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+	<windows.h>
+
+1473044529 source:d:\unlam\programaci”n\fabian 2\matrices_vecinos de un elemento\main.c
+	"header.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1471575044 source:d:\unlam\programaci”n\fabian 2da\parte entera de un flotante\funciones.c
+	"encabezados.h"
+
+1471574929 d:\unlam\programaci”n\fabian 2da\parte entera de un flotante\encabezados.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
+1471574960 source:d:\unlam\programaci”n\fabian 2da\parte entera de un flotante\main.c
+	"encabezados.h"
+

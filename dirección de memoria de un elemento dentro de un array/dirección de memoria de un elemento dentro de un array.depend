@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1473621933 source:d:\unlam\programaciÓn\fabian 2\dirección de memoria de un elemento dentro de un array\functions.c
+	"header.h"
+
+1473621690 d:\unlam\programaciÓn\fabian 2\dirección de memoria de un elemento dentro de un array\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
+1473622261 source:d:\unlam\programaciÓn\fabian 2\dirección de memoria de un elemento dentro de un array\main.c
+	"header.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1473035142 source:d:\unlam\programaci”n\fabian 2\matrices_producto matricial para cualesquiera dos matrices\functions.c
+	"header.h"
+
+1473035239 d:\unlam\programaci”n\fabian 2\matrices_producto matricial para cualesquiera dos matrices\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
+1473035166 source:d:\unlam\programaci”n\fabian 2\matrices_producto matricial para cualesquiera dos matrices\main.c
+	"header.h"
+

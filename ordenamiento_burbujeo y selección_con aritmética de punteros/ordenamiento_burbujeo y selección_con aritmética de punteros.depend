@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1472094168 source:d:\unlam\programaciÓn\fabian 2da\ordenamiento_burbujeo y selección_con aritmética de punteros\main.c
+	"header.h"
+
+1472086914 d:\unlam\programaciÓn\fabian 2da\ordenamiento_burbujeo y selección_con aritmética de punteros\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
+1472094145 source:d:\unlam\programaciÓn\fabian 2da\ordenamiento_burbujeo y selección_con aritmética de punteros\funciones.c
+	"header.h"
+

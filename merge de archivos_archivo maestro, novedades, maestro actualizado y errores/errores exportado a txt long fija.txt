@@ -1,0 +1,16 @@
+
+			 ARCHIVO ERRORES
+			 =============== 
+DNI  	  APELLIDO/s 		   NOMBRE/s 			 EDAD SUELDO CÓDIGO 
+
+13259961  Donastero                Edmundo Pedro                 58  447500.00  A
+31548454  Figueroa                 Ricardo Paulo                 28  18500.00  A
+18564966  Gutierrez                Enrique Luis                  50  16640.00  B
+23487488  Montero                  Romualdo Humberto             26  16590.00  B
+32659449  Ortúzar                  Oriana Lucía                  27  32000.00  A
+19648754  Pereyra                  Oscar Darío                   43  34656.00  B
+12514142  Pontesa                  Jose María                    62  354000.00  M
+25648754  Roberto                  Sergio                        31  14500.00  A
+36494948  Segobia                  Laura Daiana                  25  14750.00  A
+13648754  Torres Rojas             Gilberto Pancracio            56  29850.00  B
+29135796  Valente                  Loana Elene                   34  29500.00  A

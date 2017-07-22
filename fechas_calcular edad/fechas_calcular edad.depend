@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1471751236 source:d:\unlam\programaci”n\fabian 2da\fechas_calcular edad\funciones.c
+	"header.h"
+
+1471751242 d:\unlam\programaci”n\fabian 2da\fechas_calcular edad\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
+1471752479 source:d:\unlam\programaci”n\fabian 2da\fechas_calcular edad\main.c
+	"header.h"
+

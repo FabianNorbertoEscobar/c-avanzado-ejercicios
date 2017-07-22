@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1479057385 source:d:\unlam\programaci”n\fabian\repaso lista doblemente enlazada\funciones.c
+	"header.h"
+
+1479050427 d:\unlam\programaci”n\fabian\repaso lista doblemente enlazada\header.h
+	"lista_doblemente_enlazada.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
+1479054562 d:\unlam\programaci”n\fabian\repaso lista doblemente enlazada\lista_doblemente_enlazada.h
+	"dato.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
+1479049989 d:\unlam\programaci”n\fabian\repaso lista doblemente enlazada\dato.h
+
+1479057457 source:d:\unlam\programaci”n\fabian\repaso lista doblemente enlazada\lista_doblemente_enlazada.c
+	"lista_doblemente_enlazada.h"
+
+1479057495 source:d:\unlam\programaci”n\fabian\repaso lista doblemente enlazada\main.c
+	"header.h"
+

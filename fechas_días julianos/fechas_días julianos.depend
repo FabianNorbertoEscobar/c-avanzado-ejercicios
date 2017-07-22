@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1471749988 source:d:\unlam\programaciÓn\fabian 2da\fechas_días julianos\main.c
+	"header.h"
+
+1471749259 d:\unlam\programaciÓn\fabian 2da\fechas_días julianos\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
+1471749501 source:d:\unlam\programaciÓn\fabian 2da\fechas_días julianos\funciones.c
+	"header.h"
+

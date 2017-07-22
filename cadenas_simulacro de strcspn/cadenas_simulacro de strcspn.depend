@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1473289787 source:d:\unlam\programaci”n\fabian 2\cadenas_simulacro de strcspn\functions.c
+	"header.h"
+
+1473289760 d:\unlam\programaci”n\fabian 2\cadenas_simulacro de strcspn\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
+1473289902 source:d:\unlam\programaci”n\fabian 2\cadenas_simulacro de strcspn\main.c
+	"header.h"
+

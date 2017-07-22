@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1476845673 source:d:\unlam\programaci”n\fabian\repaso cadenas de caracteres\functions.c
+	"header.h"
+
+1476845557 d:\unlam\programaci”n\fabian\repaso cadenas de caracteres\header.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<locale.h>
+
+1476845776 source:d:\unlam\programaci”n\fabian\repaso cadenas de caracteres\main.c
+	"header.h"
+

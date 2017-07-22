@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1476994414 source:d:\unlam\programaci”n\fabian\repaso cola est·tica\functions.c
+	"header.h"
+
+1476994475 d:\unlam\programaci”n\fabian\repaso cola est·tica\header.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<locale.h>
+	"primitivas_cola_est·tica.h"
+
+1476995405 d:\unlam\programaci”n\fabian\repaso cola est·tica\primitivas_cola_est·tica.h
+	"dato.h"
+
+1476994405 d:\unlam\programaci”n\fabian\repaso cola est·tica\dato.h
+
+1476997201 source:d:\unlam\programaci”n\fabian\repaso cola est·tica\main.c
+	"header.h"
+

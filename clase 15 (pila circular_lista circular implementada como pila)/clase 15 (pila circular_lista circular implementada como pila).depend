@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1476314267 source:d:\unlam\programaci”n\fabian\clase 15 (pila circular_lista circular implementada como pila)\functions.c
+	"header.h"
+
+1476314317 d:\unlam\programaci”n\fabian\clase 15 (pila circular_lista circular implementada como pila)\header.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<locale.h>
+	"primitivas_pila_circular.h"
+
+1476314857 d:\unlam\programaci”n\fabian\clase 15 (pila circular_lista circular implementada como pila)\primitivas_pila_circular.h
+	"dato.h"
+
+1476314212 d:\unlam\programaci”n\fabian\clase 15 (pila circular_lista circular implementada como pila)\dato.h
+
+1476316642 source:d:\unlam\programaci”n\fabian\clase 15 (pila circular_lista circular implementada como pila)\main.c
+	"header.h"
+

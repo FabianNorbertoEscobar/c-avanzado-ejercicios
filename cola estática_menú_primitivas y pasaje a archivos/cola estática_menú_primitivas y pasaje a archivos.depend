@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1475439806 source:d:\unlam\programaciÓn\fabian 2\cola estática_menú_primitivas y pasaje a archivos\functions.c
+	"header.h"
+
+1475439602 d:\unlam\programaciÓn\fabian 2\cola estática_menú_primitivas y pasaje a archivos\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	"primitivas_cola_estática.h"
+
+1475433603 d:\unlam\programaciÓn\fabian 2\cola estática_menú_primitivas y pasaje a archivos\primitivas_cola_estática.h
+	"dato.h"
+
+1474765137 d:\unlam\programaciÓn\fabian 2\cola estática_menú_primitivas y pasaje a archivos\dato.h
+
+1475439817 source:d:\unlam\programaciÓn\fabian 2\cola estática_menú_primitivas y pasaje a archivos\main.c
+	"header.h"
+
+1475434668 source:d:\unlam\programaciÓn\fabian 2\cola estática_menú_primitivas y pasaje a archivos\primitivas_cola_estática.c
+	"primitivas_cola_estática.h"
+

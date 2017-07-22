@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1471805815 source:d:\unlam\programaciÓn\fabian 2da\fechas_días gregorianos\funciones.c
+	"header.h"
+
+1471805570 d:\unlam\programaciÓn\fabian 2da\fechas_días gregorianos\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+	<stdlib.h>
+
+1471805970 source:d:\unlam\programaciÓn\fabian 2da\fechas_días gregorianos\main.c
+	"header.h"
+

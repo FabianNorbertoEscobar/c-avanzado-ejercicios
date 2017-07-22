@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1472317596 source:d:\unlam\programaci”n\fabian 2da\primo o no primo\funciones.c
+	"encabezados.h"
+
+1471572624 d:\unlam\programaci”n\fabian 2da\primo o no primo\encabezados.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
+1471572716 source:d:\unlam\programaci”n\fabian 2da\primo o no primo\main.c
+	"encabezados.h"
+

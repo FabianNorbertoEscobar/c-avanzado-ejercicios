@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1473032435 source:d:\unlam\programaci”n\fabian 2\matrices_es identidad\functions.c
+	"header.h"
+
+1473032382 d:\unlam\programaci”n\fabian 2\matrices_es identidad\header.h
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+
+1473032504 source:d:\unlam\programaci”n\fabian 2\matrices_es identidad\main.c
+	"header.h"
+

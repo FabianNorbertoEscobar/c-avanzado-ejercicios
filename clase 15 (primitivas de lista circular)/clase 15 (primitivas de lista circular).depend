@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1476308706 source:d:\unlam\programaci”n\fabian\clase 15 (primitivas de lista circular)\functions.c
+	"header.h"
+
+1476308684 d:\unlam\programaci”n\fabian\clase 15 (primitivas de lista circular)\header.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<locale.h>
+	"primitivas_lista_circular.h"
+
+1476314534 d:\unlam\programaci”n\fabian\clase 15 (primitivas de lista circular)\primitivas_lista_circular.h
+	"dato.h"
+
+1476308009 d:\unlam\programaci”n\fabian\clase 15 (primitivas de lista circular)\dato.h
+
+1476311925 source:d:\unlam\programaci”n\fabian\clase 15 (primitivas de lista circular)\main.c
+	"header.h"
+
+1476312095 source:d:\unlam\programaci”n\fabian\clase 15 (primitivas de lista circular)\primitivas_lista_circular.c
+	"primitivas_lista_circular.h"
+	<stdio.h>
+	<stdlib.h>
+
